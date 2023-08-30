@@ -1,5 +1,5 @@
 # KeiCOT
-- KeiCOコーパス[[Liu+ 22]](https://github.com/Liumx2020/KeiCO-corpus)を元に構築された敬語理解タスク評価データセット
+- KeiCOコーパス[[Liu and Kobayashi 22]](https://github.com/Liumx2020/KeiCO-corpus)を元に構築された敬語理解タスク評価データセット
 - Chain-of-Thoughtプロンプティング[[Wei+ 22]](https://arxiv.org/abs/2201.11903)の有用性を検証するために、CoTあり/なしのテストセットをそれぞれ含む
 
 ## Problems
